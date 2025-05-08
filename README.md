@@ -23,7 +23,6 @@ Install via:
 
 ```bash
 pip install numpy matplotlib pillow
-
+)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
   https://colab.research.google.com/github/LinoCasu/emergent-spacetime/blob/main/Temporal_Interference_Collab.ipynb
-)
