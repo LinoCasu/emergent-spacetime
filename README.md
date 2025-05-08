@@ -11,6 +11,10 @@ Inspired by theoretical exploration in emergent spacetime physics, the model sup
 
 ![screenshot](https://github.com/user-attachments/assets/f004af0e-108e-4283-9851-5ea14c41c412)
 
+### Paper about this Github
+
+https://www.researchgate.net/publication/391572159_Emergent_Spatial_Axes_from_Orthogonal_Temporal_Interference_A_Quasiperiodic_Model_in_Two_Dimensions
+
 ## Features
 
 - 2D projection of dual-time interference
