@@ -26,4 +26,4 @@ Install via:
 
 ```bash
 pip install numpy matplotlib pillow
-)
+
