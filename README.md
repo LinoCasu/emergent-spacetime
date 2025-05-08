@@ -9,6 +9,8 @@ Inspired by theoretical exploration in emergent spacetime physics, the model sup
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
   https://colab.research.google.com/github/LinoCasu/emergent-spacetime/blob/main/Temporal_Interference_Collab.ipynb)
 
+![screenshot](https://github.com/user-attachments/assets/f004af0e-108e-4283-9851-5ea14c41c412)
+
 ## Features
 
 - 2D projection of dual-time interference
